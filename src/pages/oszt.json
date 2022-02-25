@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Katona Kitty",
+        "year" : 1975,
+        "gender" : "Nő",
+        "college" : "Igen"
+
+    },
+    {
+        "name" : "Lapos Elemér",
+        "year" : 1976,
+        "gender" : "Férfi",
+        "college" : "Nem"
+
+    },
+    {
+        "name" : "Nagy Ilona",
+        "year" : 1982,
+        "gender" : "Nő",
+        "college" : "Igen"
+
+    },
+    {
+        "name" : "Fejér Anna",
+        "year" : 1980,
+        "gender" : "Nő",
+        "college" : "Nem"
+
+    },
+    {
+        "name" : "Bene Dávid",
+        "year" : 1977,
+        "gender" : "Férfi",
+        "college" : "Igen"
+
+    }
+]
